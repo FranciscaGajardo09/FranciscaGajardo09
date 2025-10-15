@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Francisca Gajardo! 
 
-<!--
-**FranciscaGajardo09/FranciscaGajardo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a passionate student learning and exploring the world of technology. Here's a bit about me:
 
-Here are some ideas to get you started:
+- **Name**: Francisca Gajardo
+- **School**: True North Classical Academy
+- **Grade**: 10th
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm currently in 10th grade at True North Classical Academy, where I am pursuing my interests in data analytics, machine learning, and AI. I'm constantly learning new things and looking forward to contributing to open-source projects and collaborating with others.
+
+## Skills & Interests
+
+- Python
+- AI and Speech and Debate club
+- Reading, Volleyball player, physics
+
+## Let's Connect!
+
+Feel free to reach out to me if you'd like to collaborate or chat about tech! 
+
+- [LinkedIn-linkedin.com/in/francisca-gajardo-747217379] (if you have one)
+- [Email: franciscagajardo1209@gmail.com
+
+---
+
+Thanks!
