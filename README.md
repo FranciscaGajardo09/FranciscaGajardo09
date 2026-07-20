@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a passionate student learning and exploring th
 
 - **Name**: Francisca Gajardo
 - **School**: True North Classical Academy
-- **Grade**: 10th
+- **Grade**: 11th
 
 ## About Me
 
